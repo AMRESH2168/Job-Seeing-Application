@@ -1,1 +1,1 @@
-# Job-Seeing-Application
+# Realtime MERN Chat App with Google Gemini
